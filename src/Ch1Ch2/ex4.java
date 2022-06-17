@@ -1,4 +1,4 @@
-package Ch1;
+package Ch1Ch2;
 
 // String Example
 // 문자 리터럴 -> 작은 따옴표 ' '

@@ -1,4 +1,4 @@
-package Ch1;
+package Ch1Ch2;
 
 // IntegerLiteralExample
 public class ex2 {
